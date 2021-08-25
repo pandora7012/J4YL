@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e06c40fa5fc2d9141bdb347fc55f29ba, type: 3}
+  m_Name: DATA
+  m_EditorClassIdentifier: 
+  characters:
+  - avaON: {fileID: -7553779239741379812, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    avaOFF: {fileID: -3639081524777828715, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    character: {fileID: 7896879507418422366, guid: 18cf4b2eb9df4bb4a8e544fc92335026, type: 3}
+    trigger: 1
+    cost: 0
+  - avaON: {fileID: 3966926841709081874, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    avaOFF: {fileID: -4695001681032435286, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    character: {fileID: -4157706297658988567, guid: 18cf4b2eb9df4bb4a8e544fc92335026, type: 3}
+    trigger: 1
+    cost: 0
+  - avaON: {fileID: 2728714303547565324, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    avaOFF: {fileID: -2349758396086362511, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    character: {fileID: -1554456083928411902, guid: 18cf4b2eb9df4bb4a8e544fc92335026, type: 3}
+    trigger: 1
+    cost: 0
+  - avaON: {fileID: -3970034375265735895, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    avaOFF: {fileID: 251830536206370090, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    character: {fileID: -8409804523254666561, guid: 18cf4b2eb9df4bb4a8e544fc92335026, type: 3}
+    trigger: 1
+    cost: 0
+  - avaON: {fileID: 8877729890659370449, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    avaOFF: {fileID: -6055735476594899634, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    character: {fileID: -1283932721666938582, guid: 18cf4b2eb9df4bb4a8e544fc92335026, type: 3}
+    trigger: 1
+    cost: 0
+  - avaON: {fileID: -5457355934194479928, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    avaOFF: {fileID: -4649999318888147453, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    character: {fileID: -6684165774472214494, guid: 18cf4b2eb9df4bb4a8e544fc92335026, type: 3}
+    trigger: 1
+    cost: 0
+  - avaON: {fileID: -9111833895980934953, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    avaOFF: {fileID: -325595316371823011, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    character: {fileID: 3056916930600918670, guid: 18cf4b2eb9df4bb4a8e544fc92335026, type: 3}
+    trigger: 1
+    cost: 60
+  - avaON: {fileID: -7309139339217128051, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    avaOFF: {fileID: 1432661789735099970, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    character: {fileID: 4154599387894098555, guid: 18cf4b2eb9df4bb4a8e544fc92335026, type: 3}
+    trigger: 1
+    cost: 0
+  - avaON: {fileID: 6381268233929900277, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    avaOFF: {fileID: 3942897898438878804, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    character: {fileID: -2454302864015985212, guid: 18cf4b2eb9df4bb4a8e544fc92335026, type: 3}
+    trigger: 1
+    cost: 0
+  - avaON: {fileID: 1972216650884559243, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    avaOFF: {fileID: -2080109381298591365, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    character: {fileID: -2454032919510115792, guid: 18cf4b2eb9df4bb4a8e544fc92335026, type: 3}
+    trigger: 1
+    cost: 0
+  maps:
+  - ava: {fileID: 6849285638515997628, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    mapbg: {fileID: 7843027062870354950, guid: abd1e1aac9768104d9f0e6566f91deb0, type: 3}
+    platNor: {fileID: 2868539044483428322, guid: 8ca5b55fe4b0e2a44a1183dd52a89b0a, type: 3}
+    platBre: {fileID: -5107677499478342438, guid: 8ca5b55fe4b0e2a44a1183dd52a89b0a, type: 3}
+    Wall: {fileID: 6451264694632907309, guid: 8ca5b55fe4b0e2a44a1183dd52a89b0a, type: 3}
+  - ava: {fileID: 1753123908185742941, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    mapbg: {fileID: -3292554341038530956, guid: abd1e1aac9768104d9f0e6566f91deb0, type: 3}
+    platNor: {fileID: -282635231382982036, guid: 8ca5b55fe4b0e2a44a1183dd52a89b0a, type: 3}
+    platBre: {fileID: 8271096184780980891, guid: 8ca5b55fe4b0e2a44a1183dd52a89b0a, type: 3}
+    Wall: {fileID: -5381153769289946764, guid: 8ca5b55fe4b0e2a44a1183dd52a89b0a, type: 3}
+  - ava: {fileID: 6325984590081611091, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    mapbg: {fileID: 3033604822972139715, guid: 8396bd0a062936f4f99e33ba5d6ba04a, type: 3}
+    platNor: {fileID: 6356908062157346430, guid: 8ca5b55fe4b0e2a44a1183dd52a89b0a, type: 3}
+    platBre: {fileID: 840117813546632680, guid: 8ca5b55fe4b0e2a44a1183dd52a89b0a, type: 3}
+    Wall: {fileID: -7850380311542539340, guid: 8ca5b55fe4b0e2a44a1183dd52a89b0a, type: 3}
+  - ava: {fileID: 3521992362117110125, guid: e0e745ac3abbae34996474c0c70c0e10, type: 3}
+    mapbg: {fileID: -8965919881963773262, guid: 8396bd0a062936f4f99e33ba5d6ba04a, type: 3}
+    platNor: {fileID: -8255771079334560590, guid: 8ca5b55fe4b0e2a44a1183dd52a89b0a, type: 3}
+    platBre: {fileID: -6726083762602269912, guid: 8ca5b55fe4b0e2a44a1183dd52a89b0a, type: 3}
+    Wall: {fileID: -3033154871716680824, guid: 8ca5b55fe4b0e2a44a1183dd52a89b0a, type: 3}
